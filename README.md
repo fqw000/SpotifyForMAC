@@ -8,6 +8,6 @@ bash <(curl -sSL https://spotx-official.github.io/run.sh)
 「[下 载 脚 本](https://github.com/fqw000/SpotifyForMAC/archive/refs/heads/main.zip)」将两个sh文件下载后放在同一目录下，运行run.sh即可。
 
 run.sh是用来传递安装参数的
-默认功能全开启，直接运行「[spotx.sh](https://github.com/fqw000/SpotifyForMAC/blob/main/spotx.sh?raw=1)」即可。
+默认功能全开启，直接运行「[spotx.sh]()」即可。
 
 
