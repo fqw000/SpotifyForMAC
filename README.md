@@ -9,5 +9,8 @@ bash <(curl -sSL https://spotx-official.github.io/run.sh)
 
 run.sh是用来传递安装参数的
 默认功能全开启，直接运行「[spotx.sh]()」即可。
-
+一键脚本：
+```
+bash <(curl -sSL https://raw.githubusercontent.com/SpotX-Official/SpotX-Bash/main/spotx.sh)
+```
 
